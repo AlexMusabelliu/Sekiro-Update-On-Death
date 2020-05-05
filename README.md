@@ -10,5 +10,9 @@ Automatically updates a death counter in the background upon dying in Sekiro and
 
 --------
 
-Dependent on CV2, Pillow, and NumPy.
+## Dependencies
+* CV2
+* Pillow
+* NumPy
+
 If it doesn't work with your resolution monitor or OS, please tell me in the issues section so I can resolve them.
