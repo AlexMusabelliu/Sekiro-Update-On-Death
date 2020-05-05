@@ -8,8 +8,6 @@ Automatically updates a death counter in the background upon dying in Sekiro and
 * Runs in the background
 * Works for any resolution
 
---------
-
 ## Dependencies
 * CV2
 * Pillow
