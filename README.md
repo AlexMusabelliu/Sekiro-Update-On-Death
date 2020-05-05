@@ -20,4 +20,4 @@ To use, just launch Sekiro and then run the .py file.
 * Pillow
 * NumPy
 
-If it doesn't work with your resolution monitor or OS, please tell me in the issues section so I can resolve them.
+If it doesn't work with your resolution monitor or OS, email me or start an issue on the repo.
