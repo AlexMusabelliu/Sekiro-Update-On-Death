@@ -4,9 +4,9 @@ Automatically updates a death counter in the background upon dying in Sekiro and
 ![License](https://img.shields.io/github/license/AlexMusabelliu/Sekiro-Update-On-Death?style=plastic)
 
 ## Features
---Automatic counting of death
---Runs in the background
---Works for any resolution
+*Automatic counting of death
+*Runs in the background
+*Works for any resolution
 
 --------
 
