@@ -1,6 +1,6 @@
 # Sekiro Update On Death (Death Counter)
-Automatically updates a death counter in the background upon dying in Sekiro and stores its count in a notepad document.
 ![Sekiro](https://www.telegraph.co.uk/content/dam/gaming/2019/03/06/Sekiro_Art_trans%2B%2BQsQKkypbxxkGLu6JU8b2QKfk7bxqeI-RJzwIB1bgqTk.jpg)
+Automatically updates a death counter in the background upon dying in Sekiro and stores its count in a notepad document.
 ![License](https://img.shields.io/github/license/AlexMusabelliu/Sekiro-Update-On-Death?style=plastic)
 
 ## Features
